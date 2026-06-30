@@ -1,0 +1,4 @@
+theme: minima
+title: Un título en el config yml
+author: Autor en config yml
+description: Descripción en el config yml
